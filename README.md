@@ -5,6 +5,7 @@
 - Check HappyHome.pdf for an UML diagram.
 
 ## Access database in local machine
+- install and open MySQL server
 - install and configure MySQL Workbench
 - git clone this repo
 - execute the queries in `HappyHome.sql` to create the database
